@@ -1,2 +1,2 @@
 # StrategyPattern
-Strategy Pattern
+Simple "Strategy" Pattern in Unity
